@@ -1,6 +1,7 @@
 # file
 *.pyc
-*.txt
+*.sqlite
 # dir
 __pycache__/
 .vscode/
+migrations/
